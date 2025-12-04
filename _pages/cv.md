@@ -10,16 +10,19 @@ redirect_from:
 {% include base_path %}
 
 (generated from `.tex` using pandoc)
+
 # Contact Information
 
-  ----------------------------- -------------------------------------
-  Computer Science Department   *Voice:* (518) 388-6062
-  Union College                 *Fax:* (518) 388-6789
-  Steinmetz Hall 207            *E-mail:* rieffelj@union.edu
-  807 Union St.                 *WWW:* www.cs.union.edu/`~`rieffelj
+  Computer Science Department   
+  Union College                
+  Steinmetz Hall 207            
+  807 Union St.                 
   Schenectady, NY 12308 USA     
-  ----------------------------- -------------------------------------
 
+* Voice:* (518) 388-6062
+* E-mail:* rieffelj@union.edu
+* WWW:* www.cs.union.edu/`~`rieffelj
+ 
 # Education
 
 **Brandeis University**, Waltham, Massachusetts **2001 - 2006**

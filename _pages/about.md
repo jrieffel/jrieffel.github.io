@@ -11,5 +11,6 @@ I'm a Professor in the Computer Science Department at Union College.  My researc
 
 * Soft Robotics
 * Tensegrity Robotics
+[VVValtr](images/vvvaltr.png)
 * 3D printing
 * Generative Design
