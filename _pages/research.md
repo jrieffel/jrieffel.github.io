@@ -20,11 +20,6 @@ Selected highlights:
 * Lehmann, Lukas, et al. "Investigation of stiffness and mechanical property change capabilities of compliant 2D tensegrity grids for the application in soft robotics." 2025 IEEE 8th International Conference On Soft Robotics (RoboSoft). IEEE, 2025.
 * Doney, Kyle, et al. "Behavioral repertoires for soft tensegrity robots." 2020 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2020.
   
-Along with my 
-* Rieffel, John, and Jean-Baptiste Mouret. "Adaptive and resilient soft tensegrity robots." Soft robotics 5.3 (2018): 318-329.
-* Lehmann, Lukas, et al. "Investigation of stiffness and mechanical property change capabilities of compliant 2D tensegrity grids for the application in soft robotics." 2025 IEEE 8th International Conference On Soft Robotics (RoboSoft). IEEE, 2025.
-* Doney, Kyle, et al. "Behavioral repertoires for soft tensegrity robots." 2020 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2020.
-  
 I also curate the [Tensegrity Robotics Webpage](tensegrity-robotics.github.io), a repository of tensegrity robotics research.
 
 
