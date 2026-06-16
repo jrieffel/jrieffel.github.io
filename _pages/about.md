@@ -9,9 +9,7 @@ redirect_from:
 
 I'm a Professor in the Computer Science Department at Union College.  My research areas include:
 
-![VVValtr](images/vvvaltr.png)
-
-<img src="images/vvvaltr.png" width="200" height="100">
+<img src="images/vvvaltr.png" width="300" height="300">
 
 * [Soft Robotics](/research/)
 * [Tensegrity Robotics](/research/)
