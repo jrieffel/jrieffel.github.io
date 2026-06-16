@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A full resume is available [files/cv.pdf](here)
+A full resume is available [here](files/cv.pdf)
 
 # Contact Information
 

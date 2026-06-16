@@ -11,6 +11,6 @@ I'm a Professor in the Computer Science Department at Union College.  My researc
 
 ![VVValtr](images/vvvaltr.png)
 
-* [Soft Robotics](_pages/research.html)
-* [Tensegrity Robotics](_pages/research.html) 
-* [Evolutionary Fabrication](_pages/research.html) 
+* [Soft Robotics](research/)
+* [Tensegrity Robotics](research/)
+* [Evolutionary Fabrication](research/)
