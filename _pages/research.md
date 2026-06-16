@@ -27,7 +27,7 @@ We also curate the [Tensegrity Robotics Webpage](tensegrity-robotics.github.io),
 
 ## Soft Robotics
 
-<img src="images/evogym.gif">
+<img src="images/evogym.gif" width="300" height="300">
 
 Soft Robotics seeks bio-inspired approaches to building robots out of soft and flexible materials.   
 
@@ -36,8 +36,7 @@ Our lab's research has involved using 2D volumetric (voxel) simulators like EvoG
 
 ## Evolutionary Fabrication
 
-<img src="images/500growSquence.png">
-
+<img src="images/500growSequence.png" width="300" height="300">
 
 
   Soft robots systems are very difficult for humans to design and manufacture because of their material complexity. This project aims to develop a proof-of-concept robotic factory, EvoFab, for the automated design, fabrication, and testing of novel soft actuators. EvoFab combines innovative evolutionary simulations that test and iterate on millions of potential solutions with fully automated fabrication and in-situ characterizing to design, manufacture, and test air pressure-powered soft actuators.
